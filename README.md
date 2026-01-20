@@ -8,4 +8,4 @@ L'objectif principal est d'atteindre une précision >85% tout en minimisant le t
 - **Transfer Learning** : Implémentation via MobileNetV3 Small pour l'efficacité mobile.
 
 ## 🛠️ Installation & Usage
-Le projet est fourni sous forme de Notebook Jupyter (`https://colab.research.google.com/drive/11YZkGu3HktJRDzJztYHSYvNaDiCpGh44?usp=sharing`) exécutable sur Google Colab ou en local avec `torch` et `torchvision`.
+Le projet est fourni sous forme de Notebook Jupyter [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11YZkGu3HktJRDzJztYHSYvNaDiCpGh44?usp=sharing) exécutable sur Google Colab ou en local avec `torch` et `torchvision`.
