@@ -23,5 +23,4 @@ Le projet est prêt à l'emploi sur Google Colab avec accès GPU gratuit :
 Pour exécuter le projet localement, clonez le dépôt et installez les dépendances :
 
 1. **Cloner le projet** :
-   ```bash
-git clone https://github.com/JairVasquezT/CIFAR10-Optimization-ENSTA-Group21.git
+   ```bash git clone https://github.com/JairVasquezT/CIFAR10-Optimization-ENSTA-Group21.git
