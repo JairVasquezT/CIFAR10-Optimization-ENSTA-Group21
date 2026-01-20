@@ -1,2 +1,11 @@
-# CIFAR10-Optimization-ENSTA-Group21
-Projet de classification d'images sur CIFAR-10 optimisé pour la précision (>85%) et la vitesse d'inférence. Module CSC_4MI01_TA.
+# Classification CIFAR-10 : Optimisation Précision/Vitesse
+
+Ce projet porte sur la conception d'un système de classification performant sur le dataset **CIFAR-10**.
+L'objectif principal est d'atteindre une précision >85% tout en minimisant le temps d'inférence.
+
+## 🧠 Approches
+- **CNN Custom** : Optimisé par ajustement d'hyperparamètres (Dropout 0.65, Batch Size 128).
+- **Transfer Learning** : Implémentation via MobileNetV3 Small pour l'efficacité mobile.
+
+## 🛠️ Installation & Usage
+Le projet est fourni sous forme de Notebook Jupyter (`.ipynb`) exécutable sur Google Colab ou en local avec `torch` et `torchvision`.
