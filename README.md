@@ -24,5 +24,4 @@ Pour exécuter le projet localement, clonez le dépôt et installez les dépenda
 
 1. **Cloner le projet** :
    ```bash
-   git clone [https://github.com/JairVasquezT/CIFAR10-Optimization-ENSTA-Group21.git](https://github.com/JairVasquezT/CIFAR10-Optimization-ENSTA-Group21.git)
-   cd CIFAR10-Optimization-ENSTA-Group21
+git clone https://github.com/JairVasquezT/CIFAR10-Optimization-ENSTA-Group21.git
