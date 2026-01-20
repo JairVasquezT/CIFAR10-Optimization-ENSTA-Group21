@@ -24,8 +24,8 @@ Pour exécuter le projet localement, clonez le dépôt et installez les dépenda
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/JairVasquezT/CIFAR10-Optimization-ENSTA-Group21.git```
-cd CIFAR10-Optimization-ENSTA-Group21
-3. **Installer les dépendances** :
+   git clone https://github.com/JairVasquezT/CIFAR10-Optimization-ENSTA-Group21.git
+   cd CIFAR10-Optimization-ENSTA-Group21```
+2. **Installer les dépendances** :
    ```bash
    pip install tensorflow numpy matplotlib scikit-learn```
